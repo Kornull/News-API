@@ -5,7 +5,7 @@
 
 ### Start instructions:
 
- + Clone this [repo](https://github.com/Kornull/RS-School-Stage-1-2/tree/news-api).
- + Go to downloaded folder: `$ cd news-JS-main`.
+ + Clone this [repo](https://github.com/Kornull/News-API).
+ + Go to downloaded folder: `$ cd news-api`.
  + Install dependencies: `$ npm install`.
  + Start app: `$ npm start`.
